@@ -1,0 +1,66 @@
+.progressbar {
+  flex: 2;
+  -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+  box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+  border-radius: 6px;
+  padding: 10px;
+}
+
+.top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: rgb(104, 102, 102);
+}
+
+h1.title {
+  font-size: 16px;
+  font-weight: 600;
+  color: rgb(104, 102, 102);
+}
+
+.bottom {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.progressChart {
+  width: 200px;
+  height: 200px;
+}
+p.title {
+  font-weight: 500;
+  color: rgb(104, 102, 102);
+  padding: 15px;
+}
+
+p.amount {
+  font-size: 30px;
+}
+
+.summary {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.item {
+  text-align: center;
+}
+
+.itemTitle {
+  color: rgb(104, 102, 102);
+  font-size: 14px;
+}
+
+.itemResult {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  font-size: 14px;
+}

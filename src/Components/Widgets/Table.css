@@ -1,0 +1,18 @@
+.status {
+  padding: 5px;
+  border-radius: 6px;
+}
+
+.Approved {
+  color: green;
+  background-color: rgba(0, 128, 0, 0.151);
+}
+
+.InProgress {
+  color: goldenrod;
+  background-color: rgba(189, 189, 3, 0.103);
+}
+
+.css-1ygcj2i-MuiTableCell-root {
+  font-weight: 600 !important;
+}

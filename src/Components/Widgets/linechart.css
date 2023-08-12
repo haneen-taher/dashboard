@@ -1,0 +1,21 @@
+.linechart {
+  flex: 4;
+  -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+  box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+  border-radius: 6px;
+  width: 80%;
+  color: rgb(104, 102, 102);
+  padding: 10px;
+}
+
+.line-bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.detnumber {
+  color: black;
+  font-weight: 600;
+}
