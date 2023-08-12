@@ -1,6 +1,5 @@
 import React from "react";
 import "./sidebar.css";
-import Logo from "../../assets/logo.webp";
 import SpaceDashboardIcon from "@mui/icons-material/SpaceDashboard";
 import InventoryIcon from "@mui/icons-material/Inventory";
 import PeopleIcon from "@mui/icons-material/People";
